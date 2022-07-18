@@ -66,12 +66,12 @@
 .bg{
     transition: 500ms ease all;
     position: absolute;
-    top: 1.1rem;
-    left: 1.1rem;
+    top: 0;
+    left: 0;
     right: auto;
     bottom: auto;
-    width: 90%;
-    height: 90%;
+    width: 100%;
+    height: 100%;
 }
 
 .content{
